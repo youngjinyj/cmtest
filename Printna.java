@@ -24,6 +24,7 @@ public class Printna {
 		System.out.format("%tB%te,%tY%n",c,c,c);
 		System.out.format("%tl:%tM,%tp%n",c,c,c);
 		System.out.format("%tD%n",c);
+		System.out.println("git hub 변경 관리를 위해 추가함");
 	}
 
 }
